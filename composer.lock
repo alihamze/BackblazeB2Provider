@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1e56a48df8430569e10dbceee7d883f2",
+    "content-hash": "09e2234c56b6d0b7c776cbe4d75deeaa",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1998,16 +1998,16 @@
         },
         {
             "name": "techyet/b2-flysystem",
-            "version": "v0.1",
+            "version": "v0.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/alihamze/BackblazeB2Flysystem.git",
-                "reference": "98a7a8c4948c4ce940615ac0b7e29881a9b87562"
+                "reference": "6fd7a460e07a4d9d5124d40e1fa60fda0b0f1174"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alihamze/BackblazeB2Flysystem/zipball/98a7a8c4948c4ce940615ac0b7e29881a9b87562",
-                "reference": "98a7a8c4948c4ce940615ac0b7e29881a9b87562",
+                "url": "https://api.github.com/repos/alihamze/BackblazeB2Flysystem/zipball/6fd7a460e07a4d9d5124d40e1fa60fda0b0f1174",
+                "reference": "6fd7a460e07a4d9d5124d40e1fa60fda0b0f1174",
                 "shasum": ""
             },
             "require": {
@@ -2030,7 +2030,7 @@
                     "email": "ali@techyet.com"
                 }
             ],
-            "time": "2018-03-13T23:44:20+00:00"
+            "time": "2018-03-14T03:46:18+00:00"
         },
         {
             "name": "techyet/b2-sdk",

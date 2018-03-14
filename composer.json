@@ -9,7 +9,7 @@
 		}
 	],
 	"require": {
-		"techyet/b2-flysystem": "^0.1.0",
+		"techyet/b2-flysystem": "^0.2",
 		"league/flysystem": "*",
 		"laravel/framework": "~5.0"
 	},
